@@ -1,2 +1,3 @@
 Listened to Ulf talk about R. Why and not python?
 After the first session we had coffee and lunch.
+The afternoon started with git why should I care.
